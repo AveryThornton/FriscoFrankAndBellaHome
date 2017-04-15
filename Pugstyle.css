@@ -1,0 +1,60 @@
+
+body {
+
+     background-color: #44e3e1;
+
+     text-align: center;
+
+}
+
+h1 {
+
+ font-family: 'Raleway Dots', cursive;
+
+ color: #f900c9;
+
+}
+
+h3 {
+
+ font-family: 'Raleway', sans-serif;
+
+}
+
+p {
+
+ font-family: 'Gochi Hand', cursive;
+
+}
+
+nav {
+
+  background-color: #76f4f3;
+
+}
+
+nav li{
+
+  display: inline-block;
+
+  color: #ff597b;
+
+  font-family: 'handlee', cursive;
+
+  border: 10px solid #f003ff;
+
+  padding: 15px 30px;
+
+}
+
+button {
+
+
+
+  background-color: #8900ff;
+
+  border-color: #6afffb;
+
+  color: #ffbebe;
+
+}
